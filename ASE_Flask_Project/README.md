@@ -20,7 +20,7 @@ To get started with this project, you need to have Python installed on your mach
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/VetsaP06/ASE_FlaskProject.git
+    git clone https://github.com/balasai36/Flaskproject_ase.git
     cd ASE_FlaskProject
     ```
 
